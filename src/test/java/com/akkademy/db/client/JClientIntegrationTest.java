@@ -7,7 +7,7 @@ import java.util.concurrent.CompletableFuture;
 
 @Ignore
 public class JClientIntegrationTest {
-    JClient client = new JClient("172.28.100.77:2552");
+    JClient client = new JClient("192.168.1.60:2552");
 
     @Test
     public void itShouldSetRecord() throws Exception {

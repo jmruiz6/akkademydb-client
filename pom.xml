@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>co.test.akka</groupId>
-    <artifactId>akkademy-db-client</artifactId>
+    <artifactId>akkademydb-client</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>akkademy-db-client</name>
+    <name>akkademydb-client</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -39,7 +39,7 @@
         </dependency>
         <dependency>
             <groupId>co.test.akka</groupId>
-            <artifactId>messages</artifactId>
+            <artifactId>akkademydb-messages</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
